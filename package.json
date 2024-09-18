@@ -1,0 +1,15 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "hj2342 Homework #01 - Tic Tac Toe",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
